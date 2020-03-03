@@ -1,9 +1,14 @@
-Please consider the following before submitting an issue:
+<!--
+  Need help or support? Don't open an issue!
+  Head to https://stackoverflow.com/questions/tagged/chart.js
 
-Guidelines for contributing: https://github.com/chartjs/Chart.js/blob/master/CONTRIBUTING.md
+  Ahoy!
 
-Example of issue on an interactive website such as the following:
-- http://jsbin.com/
-- http://jsfiddle.net/
-- http://codepen.io/pen/
-- Premade template: http://codepen.io/pen?template=JXVYzq
+  You're seeing this because you felt none of the other options fit the type of
+  issue you'd like to create. Please use this opportunity to tell us about the
+  type of issue you were looking for, so we can try to accommodate similar
+  issues in the future.
+
+  If you're using this template to report an issue covered by an existing issue
+  type, we'll close it as invalid faster than you can spell 'Mississippi'.
+-->
